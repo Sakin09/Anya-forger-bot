@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ➕', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
                 ],[
-                    InlineKeyboardButton('🛡 𝖮𝗐𝗇𝖾𝗋', callback_data="owner_info"),
-                    InlineKeyboardButton('🧩 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url="https://t.me/Telugu_Movies_999")
+                    InlineKeyboardButton('🧩 Movies 𝖦𝗋𝗈𝗎𝗉', callback_data="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+                    InlineKeyboardButton('🔥 Main Channel 🔥', url="https://t.me/Telugu_Movies_999")
                 ],[
                     InlineKeyboardButton('ℹ️ 𝖧𝖾𝗅𝗉', callback_data='help'),
                     InlineKeyboardButton('😊 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ➕', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
                 ],[
-                    InlineKeyboardButton('🛡 𝖮𝗐𝗇𝖾𝗋', callback_data="owner_info"),
-                    InlineKeyboardButton('🧩 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url="https://t.me/Telugu_Movies_999")
+                    InlineKeyboardButton('🧩 Movies 𝖦𝗋𝗈𝗎𝗉', callback_data="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+                    InlineKeyboardButton('🔥 Main Channel 🔥', url="https://t.me/Telugu_Movies_999")
                 ],[
                     InlineKeyboardButton('ℹ️ 𝖧𝖾𝗅𝗉', callback_data='help'),
                     InlineKeyboardButton('😊 𝖠𝖻𝗈𝗎𝗍', callback_data='about'),
@@ -95,8 +95,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ➕', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
                 ],[
-                    InlineKeyboardButton('🛡 𝖮𝗐𝗇𝖾𝗋', callback_data="owner_info"),
-                    InlineKeyboardButton('🧩 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url="https://t.me/Telugu_Movies_999")
+                    InlineKeyboardButton('🧩 Movies 𝖦𝗋𝗈𝗎𝗉', callback_data="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+                    InlineKeyboardButton('🔥 Main Channel 🔥', url="https://t.me/Telugu_Movies_999")
                 ],[
                     InlineKeyboardButton('ℹ️ 𝖧𝖾𝗅𝗉', callback_data='help'),
                     InlineKeyboardButton('😊 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
