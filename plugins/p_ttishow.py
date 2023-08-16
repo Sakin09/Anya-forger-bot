@@ -37,7 +37,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/Bot_Movies_Request_Group"),
             InlineKeyboardButton('⚡𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ⚡', url="https://t.me/Telugu_Movies_999")
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
@@ -58,7 +58,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/Bot_Movies_Request_Group"),
             InlineKeyboardButton('⚡𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ⚡', url="https://t.me/Telugu_Movies_999")
         ]]
                                                  ),
@@ -84,7 +84,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/+FCI3Bf3zkMw0ZDg1"),
+            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/Bot_Movies_Request_Group"),
             InlineKeyboardButton('⚡𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ⚡', url="https://t.me/Telugu_Movies_999")
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
@@ -124,7 +124,7 @@ async def disable_chat(bot, message):
     await message.reply('Chat Successfully Disabled')
     try:
         buttons = [[
-            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/+FCI3Bf3zkMw0ZDg1}"),
+            InlineKeyboardButton('🧩 𝖲𝖴𝖯𝖯𝖮𝖱𝖳 🧩', url="https://t.me/Bot_Movies_Request_Group"),
             InlineKeyboardButton('⚡𝖴𝗉𝖽𝖺𝗍𝖾𝗌 ⚡', url="https://t.me/Telugu_Movies_999")
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
